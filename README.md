@@ -1,5 +1,5 @@
 # DigitalClock
-A digital clock made using purely numpy and cv2
+A digital clock made using purely numpy and cv2\
 Modes:
 1) Real time clock (hours and minutes)
 2) Countdown
